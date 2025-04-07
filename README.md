@@ -8,17 +8,17 @@
 
 This repository contains a project designed to enhance the pedagogical approach to teaching **Numerical Analysis**. The project seeks to provide **interactive tools** and **educational content** to improve the understanding of core concepts in Numerical Analysis, including techniques such as solving systems of linear equations, linear and polynomial regression, root-finding algorithms, numerical integration, and differential equations. It utilizes **Manim** for animation generation and aims to deliver clear, beginner-friendly videos and interactive web-based applications to help students gain a deeper understanding of these mathematical methods.
 
-### Supervisor: 
-      Afif Beji, Ing., M.Sc.
-      <b>Role:</b> Assistant Professor and Project Supervisor 
-      <strong>Institution:</strong> ESPRIT, School of Engineers
+### Supervisor:
+    Afif Beji, Ing., M.Sc.
+    - Role: Assistant Professor and Project Supervisor 
+    - Institution: ESPRIT, School of Engineers
 
-### Interns: 
+### Interns:
     * Haithem BEN MOUSSA
     * Sarra OUNAIS
     * Syrine OUNAIS
-    **Role:** Students
-    **Institution:** ESPRIT, School of Engineers
+    - Role: Students
+    - Institution: ESPRIT, School of Engineers
 
 ---
 
