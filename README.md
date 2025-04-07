@@ -1,4 +1,5 @@
 # <div style="color: red;">Numerical-Analysis-Internship-2025</div>
+# <div align="center"><h1 style="color: red;">Numerical-Analysis-Internship-2025</h1></div>
 
 # Numerical Analysis Educational Tools: Interactive Web Application & Visualizations
 
