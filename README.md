@@ -1,10 +1,11 @@
-# <span style="color: red;">Numerical-Analysis-Internship-2025</span>
+# <div style="color: red;">Numerical-Analysis-Internship-2025</div>
 
 # Numerical Analysis Educational Tools: Interactive Web Application & Visualizations
 
 ## Overview
 
-This repository contains a project designed to enhance the pedagogical approach to teaching **Numerical Analysis**. The project seeks to provide **interactive tools** and **educational content** to improve the understanding of core concepts in Numerical Analysis, including techniques such as numerical integration, differential equations, and root-finding algorithms. It utilizes **Manim** for animation generation and aims to deliver clear, beginner-friendly videos and interactive web-based applications to help students gain a deeper understanding of these mathematical methods.
+This repository contains a project designed to enhance the pedagogical approach to teaching **Numerical Analysis**. The project seeks to provide **interactive tools** and **educational content** to improve the understanding of core concepts in Numerical Analysis, including techniques such as solving systems of linear equations, linear and polynomial regression, and root-finding algorithms. It utilizes **Manim** for animation generation and aims to deliver clear, beginner-friendly videos and interactive web-based applications to help students gain a deeper understanding of these mathematical methods.
+<--numerical integration, differential equations--!>
 
 ### Supervisor: [Your Name]  
 **Role:** Professor and Project Supervisor  
