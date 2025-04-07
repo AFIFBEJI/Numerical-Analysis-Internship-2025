@@ -1,19 +1,23 @@
-# <div style="color: red;">Numerical-Analysis-Internship-2025</div>
 # <div align="center"><h1 style="color: red;">Numerical-Analysis-Internship-2025</h1></div>
 
 # Numerical Analysis Educational Tools: Interactive Web Application & Visualizations
 
+---
+
 ## Overview
 
-This repository contains a project designed to enhance the pedagogical approach to teaching **Numerical Analysis**. The project seeks to provide **interactive tools** and **educational content** to improve the understanding of core concepts in Numerical Analysis, including techniques such as solving systems of linear equations, linear and polynomial regression, and root-finding algorithms. It utilizes **Manim** for animation generation and aims to deliver clear, beginner-friendly videos and interactive web-based applications to help students gain a deeper understanding of these mathematical methods.
-<--numerical integration, differential equations--!>
+This repository contains a project designed to enhance the pedagogical approach to teaching **Numerical Analysis**. The project seeks to provide **interactive tools** and **educational content** to improve the understanding of core concepts in Numerical Analysis, including techniques such as solving systems of linear equations, linear and polynomial regression, root-finding algorithms, numerical integration, and differential equations. It utilizes **Manim** for animation generation and aims to deliver clear, beginner-friendly videos and interactive web-based applications to help students gain a deeper understanding of these mathematical methods.
 
-### Supervisor: [Your Name]  
-**Role:** Professor and Project Supervisor  
-**Institution:** [Your Institution]
+### Supervisor: Afif Beji
+**Role:** Assistant Professor and Project Supervisor 
+**Institution:** ESPRIT, School of Engineers
 
-### Intern: [Intern's Name]  
-**Role:** Intern and Developer
+### Interns: 
+    * Haithem BEN MOUSSA
+    * Sarra OUNAIS
+    * Syrine OUNAIS
+**Role:** Students
+**Institution:** ESPRIT, School of Engineers
 
 ---
 
@@ -44,9 +48,9 @@ The project employs a variety of technologies to create a user-friendly and inte
 
 - **Python:** The core programming language for implementing numerical methods and backend logic.
 - **Manim:** A Python library for creating mathematical animations. Used for generating high-quality visualizations of Numerical Analysis algorithms.
-- **Flask:** A lightweight web framework used for creating the web application interface. It will serve the interactive content to users.
-- **JavaScript (optional):** For frontend interactivity and dynamic visualizations on the web application.
-- **HTML/CSS:** For structuring and styling the web application interface.
+<--- **Flask:** A lightweight web framework used for creating the web application interface. It will serve the interactive content to users.
+- **JavaScript (or other Frameworks):** For frontend interactivity and dynamic visualizations on the web application.
+- **HTML/CSS:** For structuring and styling the web application interface.--!>
 - **Jupyter Notebooks:** Used for prototyping and testing various Numerical Analysis algorithms and code snippets.
 
 ---
@@ -55,9 +59,12 @@ The project employs a variety of technologies to create a user-friendly and inte
 
 ### 1. **Mathematical Animations with Manim**
    - The project will include **animated tutorials** explaining key numerical methods, such as:
-     - **Root-finding algorithms** (e.g., Newton's method)
+     - **Root-finding algorithms** (e.g., Bisection, Fixed-points, and Newton methods)
+     - **Linear and polynomial regression**
      - **Numerical integration** (e.g., Simpson's rule, trapezoidal rule)
      - **Finite difference methods** for solving differential equations
+     - **Optimization techniques** (e.g. Gradient Descent)
+     - etc.
    - These animations will help students visually understand the step-by-step process behind each algorithm, improving retention and comprehension.
 
 ### 2. **Interactive Web Application**
