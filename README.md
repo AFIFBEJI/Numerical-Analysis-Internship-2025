@@ -10,8 +10,8 @@ This repository contains a project designed to enhance the pedagogical approach 
 
 ### Supervisor: 
       Afif Beji, Ing., M.Sc.
-      **Role:** Assistant Professor and Project Supervisor 
-      **Institution:** ESPRIT, School of Engineers
+      <b>Role:</b> Assistant Professor and Project Supervisor 
+      <strong>Institution:</strong> ESPRIT, School of Engineers
 
 ### Interns: 
     * Haithem BEN MOUSSA
