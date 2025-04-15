@@ -1,0 +1,13 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/syrin/Desktop/analyse/video/media/videos/intro/1080p60/partial_movie_files/LagrangeInterpolation/3977891868_1729112264_223132457.mp4'
+file 'file:C:/Users/syrin/Desktop/analyse/video/media/videos/intro/1080p60/partial_movie_files/LagrangeInterpolation/2852726489_1846083281_2184162225.mp4'
+file 'file:C:/Users/syrin/Desktop/analyse/video/media/videos/intro/1080p60/partial_movie_files/LagrangeInterpolation/2852726489_2818629759_549788802.mp4'
+file 'file:C:/Users/syrin/Desktop/analyse/video/media/videos/intro/1080p60/partial_movie_files/LagrangeInterpolation/2852726489_1839128356_2683433902.mp4'
+file 'file:C:/Users/syrin/Desktop/analyse/video/media/videos/intro/1080p60/partial_movie_files/LagrangeInterpolation/2852726489_3950688085_4039089481.mp4'
+file 'file:C:/Users/syrin/Desktop/analyse/video/media/videos/intro/1080p60/partial_movie_files/LagrangeInterpolation/2852726489_1714663651_2374849220.mp4'
+file 'file:C:/Users/syrin/Desktop/analyse/video/media/videos/intro/1080p60/partial_movie_files/LagrangeInterpolation/2852726489_1570906399_3742049941.mp4'
+file 'file:C:/Users/syrin/Desktop/analyse/video/media/videos/intro/1080p60/partial_movie_files/LagrangeInterpolation/2852726489_1972909998_4140142694.mp4'
+file 'file:C:/Users/syrin/Desktop/analyse/video/media/videos/intro/1080p60/partial_movie_files/LagrangeInterpolation/2852726489_1839128356_2188802061.mp4'
+file 'file:C:/Users/syrin/Desktop/analyse/video/media/videos/intro/1080p60/partial_movie_files/LagrangeInterpolation/2852726489_2214130257_1975745984.mp4'
+file 'file:C:/Users/syrin/Desktop/analyse/video/media/videos/intro/1080p60/partial_movie_files/LagrangeInterpolation/2852726489_255455001_3120544667.mp4'
+file 'file:C:/Users/syrin/Desktop/analyse/video/media/videos/intro/1080p60/partial_movie_files/LagrangeInterpolation/2852726489_2408024828_3801328852.mp4'

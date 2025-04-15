@@ -1,0 +1,13 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/syrin/Desktop/analyse/video/media/videos/intro/1080p60/partial_movie_files/IntroductionScene/3977891868_3406142858_223132457.mp4'
+file 'file:C:/Users/syrin/Desktop/analyse/video/media/videos/intro/1080p60/partial_movie_files/IntroductionScene/2852726489_1839128356_3682005192.mp4'
+file 'file:C:/Users/syrin/Desktop/analyse/video/media/videos/intro/1080p60/partial_movie_files/IntroductionScene/2852726489_2156663773_1209637936.mp4'
+file 'file:C:/Users/syrin/Desktop/analyse/video/media/videos/intro/1080p60/partial_movie_files/IntroductionScene/2852726489_2408024828_1283545893.mp4'
+file 'file:C:/Users/syrin/Desktop/analyse/video/media/videos/intro/1080p60/partial_movie_files/IntroductionScene/2852726489_1773223321_1363352628.mp4'
+file 'file:C:/Users/syrin/Desktop/analyse/video/media/videos/intro/1080p60/partial_movie_files/IntroductionScene/2852726489_2501712758_1794224591.mp4'
+file 'file:C:/Users/syrin/Desktop/analyse/video/media/videos/intro/1080p60/partial_movie_files/IntroductionScene/2852726489_2408024828_2337290775.mp4'
+file 'file:C:/Users/syrin/Desktop/analyse/video/media/videos/intro/1080p60/partial_movie_files/IntroductionScene/2852726489_2333108960_3243771886.mp4'
+file 'file:C:/Users/syrin/Desktop/analyse/video/media/videos/intro/1080p60/partial_movie_files/IntroductionScene/2852726489_1734327179_2920740634.mp4'
+file 'file:C:/Users/syrin/Desktop/analyse/video/media/videos/intro/1080p60/partial_movie_files/IntroductionScene/2852726489_1935357663_831488096.mp4'
+file 'file:C:/Users/syrin/Desktop/analyse/video/media/videos/intro/1080p60/partial_movie_files/IntroductionScene/2852726489_1734327179_1719477810.mp4'
+file 'file:C:/Users/syrin/Desktop/analyse/video/media/videos/intro/1080p60/partial_movie_files/IntroductionScene/2852726489_2720451109_2706899483.mp4'
