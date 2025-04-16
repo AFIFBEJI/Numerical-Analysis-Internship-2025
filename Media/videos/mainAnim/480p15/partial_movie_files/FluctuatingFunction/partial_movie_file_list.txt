@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Haithem/Desktop/projet_manim/playground/media/videos/mainAnim/480p15/partial_movie_files/FluctuatingFunction/1185818338_752378450_223132457.mp4'
+file 'file:C:/Users/Haithem/Desktop/projet_manim/playground/media/videos/mainAnim/480p15/partial_movie_files/FluctuatingFunction/624642324_4246192616_3174605771.mp4'
+file 'file:C:/Users/Haithem/Desktop/projet_manim/playground/media/videos/mainAnim/480p15/partial_movie_files/FluctuatingFunction/624642324_1317905088_1032836632.mp4'
+file 'file:C:/Users/Haithem/Desktop/projet_manim/playground/media/videos/mainAnim/480p15/partial_movie_files/FluctuatingFunction/624642324_752038285_3959100192.mp4'
+file 'file:C:/Users/Haithem/Desktop/projet_manim/playground/media/videos/mainAnim/480p15/partial_movie_files/FluctuatingFunction/624642324_2408024828_1890809617.mp4'
